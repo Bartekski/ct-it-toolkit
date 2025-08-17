@@ -1,0 +1,3 @@
+<Limit APPE DELE MKD RMD RNTO STOR STOU XMKD XRMD SITE_CHMOD SITE_CHGRP>
+    DenyUser bartekttt@tyminskibe
+</Limit>
